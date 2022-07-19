@@ -4,6 +4,5 @@ The lab was build using terraform as infrastructure as a code.
 This repository contains all the codes used in the lab.
 
 # Deploy notes:
-Terraform deployment into aws
-You can deploy this lab using the main.tf file in this repository
+Terraform deployment into aws. You can deploy this lab using the main.tf file in this repository.
 The keypair is created using terraform.
